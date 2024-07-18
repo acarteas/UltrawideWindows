@@ -11,6 +11,8 @@ This solution is intended to be an easy-to-use middleground between the default 
 $ git clone git@github.com:lucmos/UltrawideWindows.git
 $ cd UltrawideWindows
 $ ./scripts/update.sh
+
+# Import kwin_shortcuts export to override default shortcuts
 ```
 
 # Usage
